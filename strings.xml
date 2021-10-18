@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyWorkOut</string>
+    <string name="login_in">Login in</string>
+    <string name="username">Username</string>
+    <string name="create_a_new_account_sign_up">Create a new account? Sign up</string>
+    <string name="sign_up">Sign up</string>
+    <string name="email">Email</string>
+    <string name="fullname">Fullname</string>
+    <string name="login_here">Login here</string>
+    <string name="already_have_an_account_login_here">Already Have an account? Login here</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="signuphere">Create a new account?SignUp</string>
+</resources>
